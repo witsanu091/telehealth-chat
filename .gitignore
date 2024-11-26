@@ -34,11 +34,5 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
 
-# Exclude Android build folder
-android/app/build/
-
-# Exclude Android CMake intermediate files
-android/app/.cxx/
 
